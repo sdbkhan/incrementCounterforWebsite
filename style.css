@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    }
+
+    .main{
+        display: flex;
+        
+    }
+  .Counter-container {
+        width: 100vw;
+        min-height: 100vh;
+        /* display: grid; */
+        text-align: center;
+        background-color: hsl(206, 24%, 36%);
+    }
+
+    .fa, .fas {
+       color: aliceblue;
+       /* margin-bottom: -285px; */
+       margin-top: 50%;
+    }
+
+    div span{
+        color: aliceblue;
+        font-weight: 600;
+    }
+
+    .counter{
+        color: #cc875e;
+        font-size: 60px; 
+    }
